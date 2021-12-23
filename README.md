@@ -1,0 +1,1 @@
+# Praktikum28_labirint
