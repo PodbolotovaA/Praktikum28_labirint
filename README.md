@@ -8,7 +8,7 @@
 4. termcolor
 5. allure-python-commons
 
-Актуальный нв 23.12.2021 драйвер для браузера Crome лежит в папке tests.
+Актуальный на 23.12.2021 драйвер для браузера Crome лежит в папке tests.
 
 Для запуска всех тестов в данном репрезитории необходимо ввести команду:
 python -m pytest -v --driver Chrome --driver-path tests/chromedriver.exe
